@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# Uploaded files
+uploads/
+
+# Model files
+*.pkl
+bert_model/
+logs/
